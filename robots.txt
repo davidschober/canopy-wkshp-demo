@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://davidschober.github.io/canopy-wkshp-demo
+
+# Sitemaps
+Sitemap: https://davidschober.github.io/canopy-wkshp-demo/sitemap.xml
